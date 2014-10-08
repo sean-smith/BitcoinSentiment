@@ -25,7 +25,8 @@ The initial data is messy. When compared to the graph of bitcoin value, a clear 
 ![Alt text](https://raw.githubusercontent.com/sean-smith/BitcoinSentiment/master/Screen%20Shot%202014-10-08%20at%202.44.59%20PM.png "Graph of Bitcoin Value")
 ![Alt text](https://raw.githubusercontent.com/sean-smith/BitcoinSentiment/master/Screen%20Shot%202014-10-08%20at%202.40.24%20PM.png "Graph of Bitcoin Sentiment")
 
-So we Cleaned up the data by averaging out 5 days at a time:
+So we Cleaned up the data by applying a filter:
+![Alt text](https://raw.githubusercontent.com/sean-smith/BitcoinSentiment/master/sentiment_average.png "Averaged Sentiment")
 
 
 Data
