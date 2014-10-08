@@ -20,7 +20,12 @@ The historical bitcoin prices were retreived from the coinbase API: https://www.
 Results
 -------
 
-Still a work in progress.
+The initial data is messy. When compared to the graph of bitcoin value, a clear correlation is not evident.
+
+![Alt text](https://raw.githubusercontent.com/sean-smith/BitcoinSentiment/master/Screen%20Shot%202014-10-08%20at%202.39.24%20PM.png "Graph of Bitcoin Value")
+![Alt text](https://raw.githubusercontent.com/sean-smith/BitcoinSentiment/master/Screen%20Shot%202014-10-08%20at%202.40.24%20PM.png "Graph of Bitcoin Sentiment")
+
+So we Cleaned up the data by averaging out 5 days at a time:
 
 
 Data
