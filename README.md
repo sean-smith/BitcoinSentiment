@@ -20,5 +20,11 @@ The historical bitcoin prices were retreived from the coinbase API: https://www.
 Results
 -------
 
+Still a work in progress.
 
+
+Data
+----
+
+Feel free to use our data. There are two text files that have json data dumped straight in them. Or you can use the csv file if you'd like an easier file format. Please attribute your work to this github repo.
 
