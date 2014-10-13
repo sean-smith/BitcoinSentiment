@@ -4,7 +4,7 @@ BitcoinSentiment
 Abstract
 --------
 
-This is a HackMIT 2014 project.
+This is a HackMIT 2014 project. You can see the full writeup here: http://seanssmith.me/projects.html#bitcoinsentiment
 
 We're trying to predict bitcoin values based on sentiment on online communities. Our initial hypothesis is that based on good or bad news in online forums bitcoin prices rise and fall. So by looking at existing data we are trying to find a correlation.
 
@@ -27,6 +27,9 @@ The initial data is messy. When compared to the graph of bitcoin value, a clear 
 
 So we Cleaned up the data by applying a filter:
 ![Alt text](https://raw.githubusercontent.com/sean-smith/BitcoinSentiment/master/sentiment_average.png "Averaged Sentiment")
+
+When we graphed both the price and sentiment on the same graph, a clear correlation becomes apparent.
+![Alt text](/master/sentiment_average.png "Senitment Versus Price")
 
 
 Data
