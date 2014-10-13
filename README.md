@@ -29,7 +29,7 @@ So we Cleaned up the data by applying a filter:
 ![Alt text](https://raw.githubusercontent.com/sean-smith/BitcoinSentiment/master/sentiment_average.png "Averaged Sentiment")
 
 When we graphed both the price and sentiment on the same graph, a clear correlation becomes apparent.
-![Alt text](/master/sentiment_average.png "Senitment Versus Price")
+![Alt text](https://raw.githubusercontent.com/sean-smith/BitcoinSentiment/master/price_sentiment.png "Senitment Versus Price")
 
 
 Data
