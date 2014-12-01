@@ -37,3 +37,5 @@ Data
 
 Feel free to use our data. There are two text files that have json data dumped straight in them. Or you can use the csv file if you'd like an easier file format. Please attribute your work to this github repo.
 
+Later we're going to setup a automatic buy system using the algorithm we developed.
+
