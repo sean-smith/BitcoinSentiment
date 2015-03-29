@@ -1,6 +1,8 @@
 BitcoinSentiment
 ================
 
+Note: Almost all of the code in this repository was written during HackMIT 2014. We are currently working on further improvements in a private repository.
+
 Abstract
 --------
 
